@@ -1,6 +1,13 @@
 # 2017-18_5M
 Repository della classe 5M
 
+## Git
+### Cheatsheet
+http://get-git.readthedocs.io/it/latest/index.html
+
+### Teoria
+https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png
+
 ## FTP
 ### Teoria
 https://it.wikipedia.org/wiki/File_Transfer_Protocol
