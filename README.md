@@ -23,3 +23,5 @@ https://help.ubuntu.com/lts/serverguide/ftp-server.html
 https://github.com/angelogalanti/2017-18_5M/blob/master/HTTP.pdf
 https://it.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 https://grothoff.org/christian/teaching/2017/7252/main.pdf
+https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
+
