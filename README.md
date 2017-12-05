@@ -2,11 +2,12 @@
 Repository della classe 5M
 
 ## Git
+### Teoria
+https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png
+
 ### Cheatsheet
 http://get-git.readthedocs.io/it/latest/index.html
 
-### Teoria
-https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png
 
 ## FTP
 ### Teoria
