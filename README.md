@@ -18,3 +18,6 @@ http://wwwinfo.deis.unical.it/~talia/aa0203/reti/reti-lezione8.pdf
 http://www.sftp.net/public-online-sftp-servers
 ### Guida configurazione vsftpd 
 https://help.ubuntu.com/lts/serverguide/ftp-server.html
+
+## HTTP
+https://github.com/angelogalanti/2017-18_5M/blob/master/HTTP.pdf
