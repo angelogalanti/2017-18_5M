@@ -28,6 +28,10 @@ https://grothoff.org/christian/teaching/2017/7252/main.pdf
 
 https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
 
+
+## CSS
+https://www.w3.org/community/webed/wiki/CSS/Training
+
 ## jQuery
 ### Teoria
 http://marcgrabanski.com/presentations/jquery-essentials.pdf
