@@ -31,6 +31,10 @@ Repository della classe 5M
 ### Tutorial
 - https://www.codecademy.com/learn/learn-css
 	 1. Selectors and Visual Rules
+	 <details>
+	 <summary>Summary Goes Here</summary>
+	 ...this is hidden, collapsable content...
+	</details>
 		 - CSS Setup and Selectors
 			 > 
 			 > CSS can change the look of HTML elements. In order to do this, CSS must select HTML elements, then apply styles to them.
