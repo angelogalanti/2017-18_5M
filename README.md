@@ -32,12 +32,16 @@ https://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html
 ## CSS
 ### Teoria
 https://www.w3.org/community/webed/wiki/CSS/Training
+### Tutorial
+https://www.codecademy.com/learn/learn-css
+### Esempi
+https://www.w3schools.com/css/css_examples.asp
 ### Esercizi
 https://www.w3schools.com/css/exercise.asp
 
-## jQuery
-### Teoria
-http://marcgrabanski.com/presentations/jquery-essentials.pdf
-### Codecademy
-https://www.codecademy.com/learn/learn-jquery
+~~## jQuery~~
+~~### Teoria~~
+~~http://marcgrabanski.com/presentations/jquery-essentials.pdf~~
+~~### Codecademy~~
+~~https://www.codecademy.com/learn/learn-jquery~~
 
