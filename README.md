@@ -29,9 +29,9 @@ Repository della classe 5M
 * https://www.w3.org/community/webed/wiki/CSS/Training
 ### Tutorial
 * https://www.codecademy.com/learn/learn-css
-  1 Selectors and Visual Rules
-  2 The Box Model
-  3 CSS Display and Positioning
+  1. Selectors and Visual Rules
+  2. The Box Model
+  3. CSS Display and Positioning
 ### Esempi
 * https://www.w3schools.com/css/css_examples.asp
 ### Esercizi
