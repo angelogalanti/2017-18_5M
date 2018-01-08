@@ -31,8 +31,6 @@ Repository della classe 5M
 ### Tutorial
 - https://www.codecademy.com/learn/learn-css
 	 1. Selectors and Visual Rules
-	 <details>
-	 <summary>Summary Goes Here</summary>
 		 - CSS Setup and Selectors
 			 > 
 			 > CSS can change the look of HTML elements. In order to do this, CSS must select HTML elements, then apply styles to them.
@@ -69,8 +67,6 @@ Repository della classe 5M
 			   > CSS can make an element transparent with the opacity property.
 			   > 
 			   > CSS can also set the background of an element to an image with the background-image property.
-	</details>
-
 	 2. The Box Model
  		  - The Box Model
 			> The box model comprises a set of properties used to create space around and between HTML elements.
