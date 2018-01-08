@@ -39,9 +39,9 @@ https://www.w3schools.com/css/css_examples.asp
 ### Esercizi
 https://www.w3schools.com/css/exercise.asp
 
-~~## jQuery~~
-~~### Teoria~~
-~~http://marcgrabanski.com/presentations/jquery-essentials.pdf~~
-~~### Codecademy~~
+~~ ## jQuery ~~
+~~ ### Teoria ~~
+~~ http://marcgrabanski.com/presentations/jquery-essentials.pdf ~~
+~~ ### Codecademy ~~
 ~~https://www.codecademy.com/learn/learn-jquery~~
 
