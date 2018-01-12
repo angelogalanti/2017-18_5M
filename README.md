@@ -28,6 +28,7 @@ Repository della classe 5M
 ## CSS
 ### Teoria
 - https://www.w3.org/community/webed/wiki/CSS/Training
+- https://crypt.codemancers.com/assets/images/boxmodel/compare_models-ec8c849825b4fb3e1e6177e49e15d800cb77bdeaa99e6adcf896a65af62ab99f.png
 ### Tutorial
 - https://www.codecademy.com/learn/learn-css
 	 1. Selectors and Visual Rules
