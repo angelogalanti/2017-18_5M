@@ -103,6 +103,7 @@ Repository della classe 5M
 ### Esercizi
 - https://www.w3schools.com/css/exercise.asp
 - https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20CSS%20responsive%20Demo.zip
+- **https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20CSS%20responsive%202.zip**
 
 ## jQuery
 ### Teoria
