@@ -1,6 +1,4 @@
 
-https://goo.gl/forms/MwJ6QsJuHzeRDhSL2
-
 # 2017-18_5M
 Repository della classe 5M
 
@@ -9,6 +7,11 @@ Repository della classe 5M
 - https://zeroturnaround.com/wp-content/uploads/2016/02/Git-Cheat-Sheet-pdf-v2.png
 ### Cheatsheet
 - http://get-git.readthedocs.io/it/latest/index.html
+### Comandi GIT
+https://github.com/angelogalanti/2017-18_5M/blob/master/comandi%20git.sh
+### Esercizio
+https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20comandi%20git.sh
+https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20comandi%20git%20svolto.sh
 
 ## FTP
 ### Teoria
