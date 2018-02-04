@@ -114,5 +114,6 @@ Repository della classe 5M
 ## jQuery
 ### Teoria
 - ~~http://marcgrabanski.com/presentations/jquery-essentials.pdf~~
+- https://www.w3schools.com/jquery/default.asp
 ### Tutorial
-- ~~https://www.codecademy.com/learn/learn-jquery~~
+- https://www.codecademy.com/learn/learn-jquery~~
