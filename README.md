@@ -120,3 +120,5 @@ Repository della classe 5M
 - https://github.com/angelogalanti/2017-18_5M/blob/master/a.png https://github.com/angelogalanti/2017-18_5M/blob/master/a.html
 - https://github.com/angelogalanti/2017-18_5M/blob/master/b.gif https://github.com/angelogalanti/2017-18_5M/blob/master/b.html
 - https://github.com/angelogalanti/2017-18_5M/blob/master/c.gif
+- https://github.com/angelogalanti/2017-18_5M/blob/master/animate.zip
+- https://github.com/angelogalanti/2017-18_5M/blob/master/jQuery.zip
