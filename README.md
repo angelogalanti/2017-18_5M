@@ -1,4 +1,7 @@
 
+# Verifica
+https://github.com/angelogalanti/2017-18_5M/blob/master/V180314.zip
+
 # 2017-18_5M
 Repository della classe 5M
 
