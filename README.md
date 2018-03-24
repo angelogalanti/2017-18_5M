@@ -104,9 +104,9 @@ Repository della classe 5M
 - https://www.w3schools.com/css/css_examples.asp
 ### Esercizi
 - https://www.w3schools.com/css/exercise.asp
-- https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20CSS%20responsive%20Demo.zip
-- https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20CSS%20responsive%202.zip
-- https://github.com/angelogalanti/2017-18_5M/blob/master/10-example-layout-one-fixed.zip
+- [es1](./CSS/es1.zip)
+- [es2](./CSS/es2.zip)
+- [es3](./CSS/es3.zip)
 
 ## jQuery
 ### Teoria
