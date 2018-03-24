@@ -1,7 +1,3 @@
-
-# Verifica
-https://github.com/angelogalanti/2017-18_5M/blob/master/V180314.zip
-
 # 2017-18_5M
 Repository della classe 5M
 
@@ -11,6 +7,7 @@ Repository della classe 5M
 ### Cheatsheet
 - http://get-git.readthedocs.io/it/latest/index.html
 ### Comandi GIT
+- ./git/comandi%20git.sh
 - https://github.com/angelogalanti/2017-18_5M/blob/master/comandi%20git.sh
 ### Esercizio
 - https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20comandi%20git.sh
