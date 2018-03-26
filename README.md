@@ -51,9 +51,4 @@ Repository della classe 5M
 ### Tutorial
 - https://www.codecademy.com/learn/learn-jquery
 ### Esercizi
-- https://github.com/angelogalanti/2017-18_5M/blob/master/esercizio%20jQuery.gif
-- https://github.com/angelogalanti/2017-18_5M/blob/master/a.png https://github.com/angelogalanti/2017-18_5M/blob/master/a.html
-- https://github.com/angelogalanti/2017-18_5M/blob/master/b.gif https://github.com/angelogalanti/2017-18_5M/blob/master/b.html
-- https://github.com/angelogalanti/2017-18_5M/blob/master/c.gif
-- https://github.com/angelogalanti/2017-18_5M/blob/master/animate.zip
-- https://github.com/angelogalanti/2017-18_5M/blob/master/jQuery.zip
+- [in questa cartella](./jQuery)
