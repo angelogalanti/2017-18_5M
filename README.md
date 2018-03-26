@@ -52,3 +52,11 @@ Repository della classe 5M
 - https://www.codecademy.com/learn/learn-jquery
 ### Esercizi
 - [in questa cartella](./jQuery)
+
+## jQuery
+### Teoria
+- https://www.w3schools.com/jquery/jquery_ajax_intro.asp
+- https://www.w3schools.com/jquery/ajax_ajax.asp
+### Esercizi
+- https://www.formget.com/submit-form-using-ajax-php-and-jquery/
+
