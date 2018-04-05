@@ -56,7 +56,10 @@ Repository della classe 5M
 ## jQuery
 ### Teoria
 - https://www.w3schools.com/jquery/jquery_ajax_intro.asp
-- https://www.w3schools.com/jquery/ajax_ajax.asp
+- https://www.w3schools.com/jquery/jquery_ajax_load.asp
+- https://www.w3schools.com/jquery/jquery_ajax_get_post.asp
 ### Esercizi
-- https://www.formget.com/submit-form-using-ajax-php-and-jquery/
+- https://www.w3schools.com/xml/ajax_php.asp
+- https://www.tutorialrepublic.com/jquery-tutorial/jquery-ajax-get-and-post-requests.php
+
 
