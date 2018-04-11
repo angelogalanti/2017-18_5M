@@ -53,7 +53,7 @@ Repository della classe 5M
 ### Esercizi
 - [in questa cartella](./jQuery)
 
-## jQuery
+## AJAX
 ### Teoria
 - https://www.w3schools.com/jquery/jquery_ajax_intro.asp
 - https://www.w3schools.com/jquery/jquery_ajax_load.asp
@@ -62,4 +62,8 @@ Repository della classe 5M
 - https://www.w3schools.com/xml/ajax_php.asp
 - https://www.tutorialrepublic.com/jquery-tutorial/jquery-ajax-get-and-post-requests.php
 
-
+## Bootstrap
+### Teoria
+- https://www.w3schools.com/bootstrap/default.asp
+### Esercizi
+- [in questa cartella](./bootstrap)
