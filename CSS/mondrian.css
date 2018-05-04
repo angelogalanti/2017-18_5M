@@ -1,0 +1,57 @@
+/*https://codepen.io/jamesbarnett/pen/CELir*/
+#wrapper {
+    max-width: 451px;
+    height: 454px;
+    position: relative;
+    margin: 10px auto;    
+    background:  #453a36;
+    border: solid 5px #453a36;
+}
+#wrapper > div { float: right; }
+
+#red {
+    background: #ec4938;
+    width: 330px;         
+    height: 327px;        
+    margin-left: 10px;    
+    margin-bottom: 0px;
+}
+
+.white { background: #fef9e6; }
+
+#white_med_1 {
+    width: 110px;         
+    height: 135px;        
+    margin-bottom: 20px;  
+}
+
+#white_med_2 {
+    width: 110px;         
+    height: 170px;        
+    margin-bottom: 10px;  
+}
+
+#white_sm {
+    width: 15px;         
+    height: 50px;        
+    margin-bottom: 20px; 
+}
+
+#yellow {
+    background: yellow;
+    width: 15px;  
+    height: 50px; 
+}
+
+#white_lg {
+    width: 305px;       
+    height: 118px;      
+    margin-left: 10px;  
+    margin-right: 10px; 
+}
+
+#blue {
+    background: #409cc5;
+    width: 110px;  
+    height: 119px; 
+}

@@ -1,0 +1,63 @@
+/*https://codepen.io/anon/pen/MVPJMg*/
+
+.box {  
+  position: relative;
+  width: 315px;
+  height: 160px;
+  
+  margin: 20px;
+  background: #f0f7fa;
+  border-radius: 10px;
+  
+  font-size: 18px;
+  font-family: 'Arial';
+ }
+
+.box-contents { 
+  width: 150px;
+  margin: 12px auto; 
+  text-align: center; 
+}
+
+.course { 
+  color: #9cc7dd;
+  text-transform: uppercase;
+}
+
+.badge { 
+  color: #337394;
+  font-weight: bold;
+  margin-top: 3px;
+}
+
+
+.box-contents > img { 
+  width: 100px; 
+  /*transform: scale(1.1);*/
+  margin-top: 20px;
+}
+
+.box { overflow: hidden; } 
+
+
+.triangle {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 55px solid #ea6c6c;
+    border-right: 55px solid transparent;
+}
+
+.triangle > span { 
+  position: absolute; 
+  top: -45px;
+  left: 4px;
+  transform: rotate(-45deg);
+}
+
+
+
+.triangle > span { 
+  font-size: 16px;
+  color: white; 
+}
